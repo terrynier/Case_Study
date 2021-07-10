@@ -1,4 +1,14 @@
-# Case_Study
+# Fintech Case Study: Stripe 
+
+## Overview and Origin
+
+
+
+
+
+
+
+
 
 
 ----------------

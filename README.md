@@ -133,7 +133,7 @@ Allowing this it will connect the world more together to bring easier payment so
 
 
 
-
+ 
 -----------------------------
 
 https://wws.stripe.com (Stripe, 2021)

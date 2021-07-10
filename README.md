@@ -1,7 +1,7 @@
 # Fintech Case Study: Stripe 
 
 
-![markdown-image](stripe_logo.png)
+![markdown-image](11.png)
 
 -----------------------------
 
@@ -21,7 +21,7 @@ Stripe's first funding came from YCombinator, the startup didnt go through stand
 
 Stripe has a post-money valuation in the range of $10B+ as of Mar 2021, according to PrivCo. The company is funded by 41 investors as shown in the chart below.
 
-![markdown-image](funding.png)
+![markdown-image](12.png)
 
 --------------
 
@@ -133,7 +133,7 @@ Allowing this it will connect the world more together to bring easier payment so
 
 
 
- 
+
 -----------------------------
 
 https://wws.stripe.com (Stripe, 2021)
